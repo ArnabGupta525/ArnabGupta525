@@ -1,3 +1,4 @@
+<img src="./tetris-banner.svg" alt="Tetris Banner" width="100%">
 <h2 align="left">Hi 👋! My name is ARNAB GUPTA and I'm a Enthusiastic Computer Engineer, from India</h2>
 
 ###
