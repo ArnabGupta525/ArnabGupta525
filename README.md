@@ -60,6 +60,10 @@ C++          ████░░░░░░░   0%
 3. 🗣 Working on a mental health assessment app ...
 <!--END_SECTION:activity-->
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArnabGupta525&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
